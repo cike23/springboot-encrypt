@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/encrypt-core/encrypt-core.iml" filepath="$PROJECT_DIR$/encrypt-core/encrypt-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encrypt-main/encrypt-main.iml" filepath="$PROJECT_DIR$/encrypt-main/encrypt-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-encrypt.iml" filepath="$PROJECT_DIR$/springboot-encrypt.iml" />
+    </modules>
+  </component>
+</project>
